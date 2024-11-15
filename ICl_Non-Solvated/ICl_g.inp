@@ -1,7 +1,0 @@
-!B3LYP def2-TZVP OPT FREQ
-!printbasis largeprint
-
-*xyz 0 1
-Cl        -5.40311        0.81845        0.00000
-I         -2.85311        0.81845        0.00000
-*
